@@ -1,0 +1,174 @@
+*{
+    text-align: center;
+    background-color: black;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+}
+
+h1{
+    text-align: left;
+    border-top:3px solid rgb(185, 8, 8);
+    padding-top: 10px;
+}
+.nissangtr{
+    width: 500px;
+}
+.r30{
+    width: 400px;
+}
+.logonissan{
+    cursor: pointer;
+    border: none;
+    outline: none;
+    border-radius: 8px;
+}
+.logonissan:hover{
+ transform: scale(1.05);
+}
+
+.Um{
+    text-align: left;
+    text-indent: 2rem;
+    text-align: justify;
+}
+
+h2{
+    text-align: left;
+    border-top: 3px solid rgb(185,8,8);
+    padding-top: 10px;
+}
+
+.Três{
+    text-align: left;
+    
+    text-indent: 2rem;
+}
+
+h3{
+    text-align: left;
+    border-top: 3px solid rgb(185, 8, 8);
+    padding-top: 10px;
+    font-size: 20px
+}
+
+.Quatro{
+text-align: left;
+text-align: justify;
+text-indent: 2rem;
+
+}
+
+.skyline{
+    width: 500px;
+}
+
+.One{
+    text-align: left;
+    text-align: justify;
+    text-indent: 2rem;
+}
+
+.Two{
+    text-align: left;
+    text-align: justify;
+    text-indent: 2rem;
+}
+.Three{
+    text-align: left;
+    text-align: justify;
+    text-indent: 2rem;
+}
+
+
+body{
+    color: white;
+    background-color: black;
+    font-family: 'Roboto', sans-serif; 
+    text-align: center;
+    align-items: center;
+}
+.skyline{
+   width: 500px;
+}
+h1{
+    border-top:3px solid rgb(185, 8, 8);
+    padding-top: 10px;
+}
+td, th {
+    padding: .7em;
+    margin: 0;
+    text-align: center;
+  }
+
+  table{
+    width: 100%;
+    margin-bottom : .5em;
+    table-layout: fixed;
+    text-align: center;
+  }
+
+  p{
+    font-family: 'Roboto', sans-serif; 
+    text-align: center;
+    align-items: center;
+  }
+
+  body{
+    color: white;
+    background-color: black;
+    font-family: 'Roboto', sans-serif; 
+    text-align: center;
+    align-items: center;
+}
+h1{
+    border-top:3px solid rgb(185, 8, 8);
+    padding-top: 10px;
+}
+  p{
+    font-family: 'Roboto', sans-serif; 
+  }
+
+  .um{
+   text-align: center;
+  }
+
+  body{
+    color: white;
+    background-color: black;
+    font-family: 'Roboto', sans-serif; 
+    text-align: center;
+    align-items: center;
+}
+.gtr{
+   width: 500px;
+}
+h1{
+    border-top:3px solid rgb(185, 8, 8);
+    padding-top: 10px;
+}
+td, th {
+    padding:.7em;
+    margin: 0;
+    text-align: center;
+  }
+
+  table{
+    width: 100%;
+    margin-bottom : .5em;
+    table-layout: fixed;
+    text-align: center;
+  }
+
+  p{
+    font-family: 'Roboto', sans-serif; 
+    text-align: center;
+    align-items: center;
+  }
+
+  .a{
+    text-align: center;
+  }
+
+  .A{
+    text-align: center;
+  }
